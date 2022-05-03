@@ -1,0 +1,14 @@
+{
+  "name": "better-invoice",
+  "version": "1.0.0",
+  "description": "Better Invoice is an Invoice Generator Tools",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Better"
+  ],
+  "author": "https://github.com/prosany",
+  "license": "ISC"
+}
